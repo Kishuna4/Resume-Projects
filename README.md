@@ -1,5 +1,5 @@
 # Resume-Projects
-This repository contians five representative Python coding projects to be reviewed by an employer.
+This repository contians six representative Python coding projects to be reviewed by an employer.
 
 - The eight files which have names that begin with two digits are all coding projects which concern different aspects of computer vision.
 
@@ -10,3 +10,5 @@ This repository contians five representative Python coding projects to be review
 - The "Clustering Project" shows an analysis whcih uses k-means methods to predict the ideal location for the placement of a taxi station.
 
 - The "nlp_pipelines.ipynb" file contains a series of functions and calls used for natural language processing.
+
+-The Keras lab and the diabetes csv files are paired, and their purpos eis to demonstrat familiarity with this deep learning library.
